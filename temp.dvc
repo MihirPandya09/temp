@@ -1,0 +1,6 @@
+outs:
+- md5: 35dd92b79b143b2223b0eaf899ef2ac2.dir
+  size: 0
+  nfiles: 2
+  hash: md5
+  path: temp
